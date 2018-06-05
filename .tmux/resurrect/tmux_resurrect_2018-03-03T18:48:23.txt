@@ -1,0 +1,9 @@
+pane	computerVision	1	:vim	1	:*	1	:/Users/kylemorrison/Desktop/Computer-VisionSpring2018/skeletonv2	1	vim	:vim runme.sh
+-zsh
+pane	computerVision	1	:vim	1	:*	2	:/Users/kylemorrison/Desktop/Computer-VisionSpring2018/skeletonv2/src	0	zsh	:-zsh
+pane	cryptography	1	:zsh	1	:*	1	:/Users/kylemorrison/Desktop/cryptoSpring2018	0	vim	:vim README.md
+-zsh
+pane	cryptography	1	:zsh	1	:*	2	:/Users/kylemorrison/Desktop/cryptoSpring2018/hw7	1	zsh	:-zsh
+window	computerVision	1	1	:*	5c54,181x45,0,0{90x45,0,0,0,90x45,91,0,1}
+window	cryptography	1	1	:*	8ead,181x45,0,0{95x45,0,0,2,85x45,96,0,3}
+state	computerVision	cryptography
